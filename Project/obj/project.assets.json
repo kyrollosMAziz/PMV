@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\GameIn\\PrometaV\\EtereumTest\\ProMetaV\\ProMetaV.csproj",
+      "projectUniqueName": "E:\\Projects\\GameIn\\PMV\\PMV\\Project\\ProMetaV.csproj",
       "projectName": "ProMetaV",
-      "projectPath": "E:\\Projects\\GameIn\\PrometaV\\EtereumTest\\ProMetaV\\ProMetaV.csproj",
+      "projectPath": "E:\\Projects\\GameIn\\PMV\\PMV\\Project\\ProMetaV.csproj",
       "packagesPath": "C:\\Users\\Kiro\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\GameIn\\PrometaV\\EtereumTest\\ProMetaV\\obj\\",
+      "outputPath": "E:\\Projects\\GameIn\\PMV\\PMV\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
